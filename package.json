@@ -16,7 +16,13 @@
     "screenshot": "slidev export example.md --format png"
   },
   "dependencies": {
-    "@slidev/types": "^0.50.0-beta.4"
+    "@inspira-ui/plugins": "^0.0.1",
+    "@slidev/types": "^0.50.0-beta.4",
+    "@vueuse/core": "^11.1.0",
+    "@vueuse/motion": "^2.2.6",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.5.4",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@slidev/cli": "^0.50.0-beta.4"

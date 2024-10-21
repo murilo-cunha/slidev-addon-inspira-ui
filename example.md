@@ -84,4 +84,4 @@ class: "text-center"
 # Image Particles
 
 
-<ParticleImage imageSrc="https://sli.dev/logo-title.png" :responsiveWidth="true" />
+<ParticleImage imageSrc="https://raw.githubusercontent.com/slidevjs/slidev/refs/heads/main/assets/logo.png" :responsiveWidth="true" />
